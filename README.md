@@ -1,4 +1,4 @@
- This is some test text
+This is some test text
 
 
 # Hello World
@@ -10,3 +10,5 @@ letting us move back and forth through time.
 
 For example, in this first version of the file we
 will say that the cat goes woof.
+
+Oh look a new line!
