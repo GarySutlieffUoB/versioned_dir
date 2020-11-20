@@ -1,14 +1,5 @@
-This is some test text
-
-
 # Hello GitHub
 
-This is a text file that we are going to add to Git and then to github!
+This is a README.md file to describe this repository on Github
 
-We will use Git to record all of the versions of this file,
-letting us move back and forth through time.
-
-For example, in this first version of the file we
-will say that the cat goes meow.
-
-Oh look a new line!
+This is an extra line added to the copy of README.md in the cloned repository
